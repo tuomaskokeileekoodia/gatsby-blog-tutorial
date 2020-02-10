@@ -1,11 +1,11 @@
 import React from "react";
 import Layout from "../components/layout";
 
-const Home = () => (
+const About = () => (
   <div>
     <Layout>
-      <h1>Home</h1>
-      <p>This is the HOME page.</p>
+      <h1>About</h1>
+      <p>This is the ABOUT page.</p>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dignissimos
         aut consequuntur aspernatur corrupti ratione, odit similique tenetur
@@ -16,4 +16,4 @@ const Home = () => (
   </div>
 );
 
-export default Home;
+export default About;
